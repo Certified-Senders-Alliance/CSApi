@@ -1,1 +1,1 @@
-In order to access our [CSApi Examples](https://github.com/Certified-Senders-Alliance/CSApi-examples), please request an invite from our [Support Team](mailto:support@certified-senders.org?subject=Please invite me to CSApi-Examples&body=My GitHub Account is:).
+In order to access our [CSApi Examples](https://github.com/Certified-Senders-Alliance/CSApi-examples), please request an invite from our [Support Team](mailto:support@certified-senders.org?subject=Please%20invite%20me%20to%20CSApi-Examples&body=Dear%20CSA√Support-Team,%0d%0a%0d%0aMy%20GitHub%20Account is:%20).
